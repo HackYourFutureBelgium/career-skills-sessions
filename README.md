@@ -4,4 +4,7 @@
 * Koen GremmelPrez CTO @ Citizen Lab - [What will be expected from you as a Junior web developer](https://docs.google.com/presentation/d/1mUWeyNE4s1cJowZSHOZBEYRqTPEoRBvdOV9BoTtSTuA/edit#slide=id.p)
 * Rob Segers - [How to Increase Focus & Productivity](https://github.com/HackYourFutureBelgium/hack-the-talks/blob/master/How_to_increase_focus%26productivity.pdf)
 * Sanna Toropainen - [How to use LinkedIn as a tool](https://github.com/HackYourFutureBelgium/hack-the-talks/blob/master/How%20to%20use%20LinkedIn.pdf)
-* Arnaud Nisez Keytrade Bank - [Introduction to Agile Development](https://vimeo.com/493035855/b4e2d05fa4)
+* Arnaud Nisez, IT Manager & Scrum @ Keytrade Bank - [Introduction to Agile Development](https://vimeo.com/493035855/b4e2d05fa4)
+* Thomas Groutars, Full-stack engineer @ Maze - [How to work remotely](https://vimeo.com/428942870)
+* Paul Richard, HR Director @ Emakina - [Job Negotiations](https://vimeo.com/485055014)
+* Nick Trogh, Development Engagement LEad @ Microsoft BE + LUX - [Intro to Machine Learning for Developers](https://vimeo.com/485055014)
