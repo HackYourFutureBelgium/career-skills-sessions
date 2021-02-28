@@ -8,3 +8,6 @@
 * Thomas Groutars, Full-stack engineer @ Maze - [How to work remotely](https://vimeo.com/428942870)
 * Paul Richard, HR Director @ Emakina - [Job Negotiations](https://vimeo.com/485055014)
 * Nick Trogh, Development Engagement LEad @ Microsoft BE + LUX - [Intro to Machine Learning for Developers](https://vimeo.com/485055014)
+* Engin Kosure, HYF Alumni and Web Developer @ Cronos
+- [Project Selection & Implementation, a case study](https://www.slideshare.net/KatoK1/hyf-project-ideas02)
+- [Microsoft Azure Machine Learning - Documentation](https://www.slideshare.net/KatoK1/hyf-azure-ml1-243430862)
