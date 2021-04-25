@@ -14,6 +14,6 @@
   2. [Microsoft Azure Machine Learning - Documentation](https://www.slideshare.net/KatoK1/hyf-azure-ml1-243430862)
 * Lizhen Xu, Partnership Lead @ HackYourFuture Belgium - [Time Management & Efficiency](https://vimeo.com/535481731)
 * Carolina Mojica from [Ella vzw](https://ellavzw.be/)
-- [Women in STEAM & gender stereotyping](https://github.com/HackYourFutureBelgium/career-skills-sessions/blob/master/Gender-Stereotypes_Ellavzw.pdf)
-- [Useful links about Women in STEAM](https://github.com/HackYourFutureBelgium/career-skills-sessions/blob/master/Ellavzw_usefullinks.pdf)
+  1. [Women in STEAM & gender stereotyping](https://github.com/HackYourFutureBelgium/career-skills-sessions/blob/master/Gender-Stereotypes_Ellavzw.pdf)
+  2. [Useful links about Women in STEAM](https://github.com/HackYourFutureBelgium/career-skills-sessions/blob/master/Ellavzw_usefullinks.pdf)
 
