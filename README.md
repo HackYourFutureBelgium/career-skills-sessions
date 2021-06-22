@@ -16,4 +16,7 @@
 * Carolina Mojica from [Ella vzw](https://ellavzw.be/)
   1. [Women in STEAM & gender stereotyping](https://github.com/HackYourFutureBelgium/career-skills-sessions/blob/master/Gender-Stereotypes_Ellavzw.pdf)
   2. [Useful links about Women in STEAM](https://github.com/HackYourFutureBelgium/career-skills-sessions/blob/master/Ellavzw_usefullinks.pdf)
-
+* Bart Hunerbein - [Infosession on Dutch courses in web development
+   - [Presentation](https://www.canva.com/design/DAEg42UnJOQ/akmnXnpruFqIwkE9ZYNP6A/view?utm_content=DAEg42UnJOQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton#4)
+   - [Recording](https://vimeo.com/566020016/f6a307f2b0)
+* Lieven Desomviele - [3ID Labs - 21st Century skills - semester program @ Ghent](https://vimeo.com/565214544)
